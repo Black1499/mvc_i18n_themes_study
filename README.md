@@ -1,0 +1,2 @@
+# mvc_i18n_themes_study
+SpringMVC实现i18n和主题切换
